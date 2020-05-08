@@ -1,2 +1,2 @@
 # DataSchool_Pandas
-Repositories of Pandas tutorials I've completed using the DataSchool youtube videos.
+Repository of Pandas tutorials I've completed using the DataSchool youtube videos.

@@ -4,3 +4,4 @@ Thank you to Kevin Markham https://github.com/justmarkham for his helpful videos
 
 
 Here is a link to Markham's website of tutorial videos on using Pandas for data analysis.
+https://www.dataschool.io/easier-data-analysis-with-pandas/
